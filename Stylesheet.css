@@ -1,0 +1,15 @@
+body {
+    font-family: "Chalkboard";
+    vertical-align: top;
+    background-color: black;
+    background-image: url(http://www.thegazette.news/wp-content/uploads/2016/06/Feature-1-Hangmans-Noose-with-Gavel.www_.thinkstock.com_.jpg);
+    color: black;
+
+}
+
+header {
+    text-align: center;
+    content: "Hangman";
+    text-decoration-color: black;
+    font-size: 150pc;
+}
